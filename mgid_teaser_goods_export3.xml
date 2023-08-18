@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mgid_teaser_goods_export date="2023-10-30 08:33" xmlns="https://www.w3schools.com">
+    <categories>
+        <category id="22">Home Appliances</category>
+        <category id="17">Books and Literature</category>
+        <category id="20">Outdoor Gear</category>
+        <!-- Repeat categories for more data -->
+        <category id="1">Electronics</category>
+        <category id="2">Fashion</category>
+        <category id="3">Beauty</category>
+        <category id="4">Books</category>
+        <!-- Repeat categories for a total of 30 -->
+        <category id="30">Outdoor</category>
+    </categories>
+    <teasers>
+        <teaser id="4276" active="true">
+            <categoryId>22</categoryId>
+            <url>https://example.com/appliances/?t1=4276</url>
+            <picture>https://example.com/images/appliances4276.jpg</picture>
+            <title>Smart Home Appliances</title>
+            <vendor>Smart Living</vendor>
+            <text>Upgrade your home with our range of smart and efficient appliances.</text>
+        </teaser>
+        <teaser id="5892" active="true">
+            <categoryId>17</categoryId>
+            <url>https://example.com/books/?t1=5892</url>
+            <picture>https://example.com/images/books5892.jpg</picture>
+            <title>Bestseller Books</title>
+            <vendor>Book Nook</vendor>
+            <text>Explore our collection of bestseller books from various genres.</text>
+        </teaser>
+        <teaser id="7325" active="true">
+            <categoryId>20</categoryId>
+            <url>https://example.com/outdoor/?t1=7325</url>
+            <picture>https://example.com/images/outdoor7325.jpg</picture>
+            <title>Adventure Gear Sale</title>
+            <vendor>Adventure Hub</vendor>
+            <text>Get ready for your next outdoor adventure with our quality gear.</text>
+        </teaser>
+  <teaser id="1001" active="true">
+            <categoryId>1</categoryId>
+            <url>https://example.com/electronics/?t1=1001</url>
+            <picture>https://example.com/images/electronics1001.jpg</picture>
+            <title>Latest Electronics Deals</title>
+            <vendor>Gadget Universe</vendor>
+            <text>Discover the latest electronics deals and discounts.</text>
+        </teaser>
+        <teaser id="1002" active="true">
+            <categoryId>2</categoryId>
+            <url>https://example.com/fashion/?t1=1002</url>
+            <picture>https://example.com/images/fashion1002.jpg</picture>
+            <title>Summer Fashion Collection</title>
+            <vendor>Fashionista</vendor>
+            <text>Get ready for summer with our stylish and trendy clothing collection.</text>
+        </teaser>
+        <!-- Repeat teasers for a total of 100 -->
+        <teaser id="1100" active="true">
+            <categoryId>30</categoryId>
+            <url>https://example.com/outdoor/?t1=1100</url>
+            <picture>https://example.com/images/outdoor1100.jpg</picture>
+            <title>Outdoor Adventure Gear</title>
+            <vendor>Adventure Hub</vendor>
+            <text>Get the best gear for your outdoor adventures.</text>
+        </teaser>
+        <!-- Repeat teasers for more data -->
+    </teasers>
+</mgid_teaser_goods_export>

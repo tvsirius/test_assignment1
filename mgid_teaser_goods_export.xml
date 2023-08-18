@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mgid_teaser_goods_export date="2023-10-30 08:33" xmlns="https://www.w3schools.com">
+    <categories>
+        <category id="4">Electronics and Appliances</category>
+        <category id="1">Clothing, Shoes, and Accessories</category>
+        <category id="7">Health and Beauty</category>
+        <category id="9">Jewelry and Accessories</category>
+        <category id="16">Services</category>
+        <category id="12">Pets</category>
+        <category id="14">Courses</category>
+        <category id="6">Gift Ideas</category>
+        <category id="13">Home and Garden</category>
+        <category id="8">Kids and Baby</category>
+        <category id="18">Hypermarket</category>
+        <category id="5">Groceries</category>
+    </categories>
+    <teasers>
+        <teaser id="1029" active="true">
+            <categoryId>4</categoryId>
+            <url>https://test.site.com/test/?t1=1</url>
+            <picture>https://test.site.com/imgs/i1.jpg</picture>
+            <title>Discount on Phones</title>
+            <vendor>Phone Discount</vendor>
+            <text>Galaxystore - the official Samsung brand store.</text>
+        </teaser>
+        <teaser id="818" active="true">
+            <categoryId>16</categoryId>
+            <url>https://test.site.com/test2/?t1=2</url>
+            <picture>https://test.site.com/imgs/i1.jpg</picture>
+            <title>Discount on Electronics</title>
+            <vendor>Electronics Discount</vendor>
+            <text>"Technopark" is a network of household appliances and electronics stores.</text>
+        </teaser>
+        <teaser id="949" active="true">
+            <categoryId>4</categoryId>
+            <url>https://test.site.com/test2/?t1=2</url>
+            <picture>https://test.site.com/imgs/i2.jpg</picture>
+            <title>Discount on Electronics</title>
+            <vendor>Electronics Discount</vendor>
+            <text>"Center" Corporation - a store for household appliances and electronics!</text>
+        </teaser>
+	</teasers>
+</mgid_teaser_goods_export>

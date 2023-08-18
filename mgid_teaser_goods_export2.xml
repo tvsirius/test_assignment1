@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mgid_teaser_goods_export date="2023-10-30 08:33" xmlns="https://www.w3schools.com">
+    <categories>
+        <category id="10">Electronics and Gadgets</category>
+        <category id="2">Fashion and Style</category>
+        <category id="11">Wellness and Fitness</category>
+        <!-- Repeat categories for more data -->
+    </categories>
+    <teasers>
+        <teaser id="2035" active="true">
+            <categoryId>10</categoryId>
+            <url>https://example.com/deals/?t1=2035</url>
+            <picture>https://example.com/images/item2035.jpg</picture>
+            <title>Latest Tech Gadgets</title>
+            <vendor>Tech Universe</vendor>
+            <text>Discover the latest gadgets that will revolutionize your life!</text>
+        </teaser>
+        <teaser id="1742" active="true">
+            <categoryId>2</categoryId>
+            <url>https://example.com/fashion/?t1=1742</url>
+            <picture>https://example.com/images/clothing1742.jpg</picture>
+            <title>Summer Fashion Collection</title>
+            <vendor>Fashionista</vendor>
+            <text>Get ready for summer with our stylish and trendy clothing collection.</text>
+        </teaser>
+        <teaser id="3128" active="true">
+            <categoryId>11</categoryId>
+            <url>https://example.com/wellness/?t1=3128</url>
+            <picture>https://example.com/images/wellness3128.jpg</picture>
+            <title>Healthy Living Essentials</title>
+            <vendor>Wellness Haven</vendor>
+            <text>Embrace a healthy lifestyle with our wellness and fitness products.</text>
+        </teaser>       
+    <!-- Repeat teasers for more data -->
+    </teasers>
+</mgid_teaser_goods_export>
