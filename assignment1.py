@@ -155,7 +155,7 @@ def xml_parse(filename, version="1.0"):
 
 
 
-XML_FILE_NAME = "mgid_teaser_goods_export3.xml"
+XML_FILE_NAME = "mgid_teaser_goods_export.xml"
 
 
 print(f'Parsing XML {XML_FILE_NAME}')

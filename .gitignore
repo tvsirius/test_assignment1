@@ -1,5 +1,5 @@
-# dn
-'teaser_goods.db'
+# db
+teaser_goods.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
